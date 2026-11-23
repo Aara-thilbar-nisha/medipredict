@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "lucide-react": "^0.577.0",
+    "web3modal": "^1.9.12"
+  }
+}

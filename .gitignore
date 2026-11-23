@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+dist-ssr/
+build/
+coverage/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+
+# Secret credentials
+**/key.json
+**/service-account*.json
+**/credentials.json
+
+# Editor files
+.vscode/
+.idea/
